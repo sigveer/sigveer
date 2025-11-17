@@ -21,6 +21,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />
    &nbsp;&nbsp;
   <img src="icons/vite.png" height="60" alt="Vite" title="Vite" />
+  &nbsp;&nbsp;
+  <img src="icons/vue.png" height="60" alt="Vue" title="Vue" />
 </p>
 
 ---
