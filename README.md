@@ -3,7 +3,7 @@
 <!-- Top Animated Banner -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:2e59ff,50:6a9eff,100:9dd4ff&text=Sigve%20Eriksen&fontSize=60&fontAlign=50&fontAlignY=42&desc=Computer%20Science%20@%20NTNU%20(2nd%20Year)&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=,50:ff6a6a,100:ff9d9d&text=Sigve%20Eriksen&fontSize=60&fontAlign=50&fontAlignY=42&desc=Computer%20Science%20@%20NTNU%20(2nd%20Year)&descSize=18&descAlign=50&descAlignY=70&animation=fadeIn"
     alt="Sigve Eriksen Banner"
   />
 </p>
