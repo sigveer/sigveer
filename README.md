@@ -12,17 +12,17 @@
 
 ### Experience with:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="Java" title="Java" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg" height="60" alt="Java" title="Java" />
   &nbsp;&nbsp;
-  <img src="icons/c.png" height="60" alt="C" title="C" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/C.svg" height="60" alt="C" title="C" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python" title="Python" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" height="60" alt="Python" title="Python" >
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="SQL / PostgreSQL" title="SQL / PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MySQL-Dark.svg" height="60" alt="MySQL / PostgreSQL" title="MySQL" />
    &nbsp;&nbsp;
-  <img src="icons/vite.png" height="60" alt="Vite" title="Vite" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Vite-Dark.svg" height="60" alt="Vite" title="Vite" />
   &nbsp;&nbsp;
-  <img src="icons/vue.png" height="60" alt="Vue" title="Vue" />
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" height="60" alt="Vue" title="Vue" />
 </p>
 
 ---
