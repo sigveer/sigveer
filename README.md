@@ -24,7 +24,6 @@
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VueJS-Dark.svg" height="60" alt="Vue" title="Vue" />
   &nbsp;&nbsp;
-  <img src="extra/Cgv.png" height="60" alt="Cgv" title="Cgv" />
 </p>
 
 ---
